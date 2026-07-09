@@ -114,3 +114,75 @@ Advanced vulnerability scoring
 Network monitoring dashboard
 Automated security recommendations
 Cloud-based audit reports
+
+
+
+## ⚙️ Installation Guide
+
+Follow the steps below to install and run the WiFi Auditing Tool on your system.
+
+---
+
+## 📌 Prerequisites
+
+Before installing, make sure you have:
+
+- Python 3.9 or higher installed
+- Git installed
+- Active WiFi adapter
+- Administrator / Root privileges
+- Supported OS:
+  - Windows 10/11
+  - Linux (Kali Linux recommended)
+
+Move into the project directory:
+
+cd WiFi-Auditing-Tool
+2️⃣ Create Virtual Environment (Recommended)
+
+Create a virtual environment:
+
+Windows:
+python -m venv venv
+
+Activate it:
+
+venv\Scripts\activate
+Linux / Kali Linux:
+python3 -m venv venv
+
+Activate:
+
+source venv/bin/activate
+3️⃣ Install Required Dependencies
+
+Install all required Python packages:
+
+pip install -r requirements.txt
+
+
+4️⃣ Install System Dependencies
+Windows
+
+Make sure:
+
+WiFi adapter drivers are installed
+Run Command Prompt / PowerShell as Administrator
+Kali Linux / Debian:
+
+Install wireless utilities:
+
+sudo apt update
+sudo apt install wireless-tools iw aircrack-ng
+
+
+5️⃣ Run The Application
+
+Start the WiFi Auditing Tool:
+
+Windows:
+python main.py
+
+
+Linux:
+python3 main.py
