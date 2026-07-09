@@ -116,14 +116,12 @@ Automated security recommendations
 Cloud-based audit reports
 
 
-
-## ⚙️ Installation Guide
+ Installation Guide
 
 Follow the steps below to install and run the WiFi Auditing Tool on your system.
 
 ---
-
-## 📌 Prerequisites
+prerequisites
 
 Before installing, make sure you have:
 
