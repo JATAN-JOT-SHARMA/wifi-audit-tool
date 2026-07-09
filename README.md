@@ -67,37 +67,6 @@ WiFi-Auditing-Tool/
 └── reports/ # Generated reports
 
 
----
-
-## ⚙️ Installation
-
-### 1. Clone the Repository
-
-```bash
-git clone https://github.com/yourusername/WiFi-Auditing-Tool.git
-2. Move Into Directory
-cd WiFi-Auditing-Tool
-3. Install Requirements
-pip install -r requirements.txt
-▶️ Running The Tool
-
-Start the application:
-
-python main.py
-Usage Steps:
-Open the WiFi Auditing Tool
-Start network scanning
-Select a WiFi network
-Analyze security configuration
-Generate audit report
-📸 Screenshots
-
-Add screenshots of your application here:
-
-screenshots/
- ├── dashboard.png
- ├── scanner.png
- └── report.png
 🎯 Use Cases
 
 ✅ Personal WiFi security checking
