@@ -1,0 +1,26 @@
+# GUI Framework
+customtkinter==5.2.2
+tk
+
+# Network & System Information
+psutil==6.0.0
+netifaces==0.11.0
+
+# Wireless Network Analysis
+pywifi==1.1.12
+
+# Packet Analysis (optional - for authorized monitoring)
+scapy==2.5.0
+
+# Data Processing
+pandas==2.2.2
+
+# Report Generation
+reportlab==4.2.2
+openpyxl==3.1.5
+
+# Image Support (GUI icons/screenshots)
+Pillow==10.4.0
+
+# Configuration Management
+python-dotenv==1.0.1
